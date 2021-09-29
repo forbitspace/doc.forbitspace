@@ -6,7 +6,7 @@
 
 ## getting-started
 
-* [What Is a DeFi Aggregator ?](getting-started/what-is-a-defi-aggregator.md)
+* [What Is a DEX Aggregator?](getting-started/what-is-a-defi-aggregator.md)
 
 ## Ecosytem <a id="forbitspace"></a>
 
