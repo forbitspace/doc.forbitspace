@@ -12,10 +12,16 @@
 
 ## forbitspace
 
-* [DEX](forbitspace/dex.md)
-* [Space Aggregator](forbitspace/space-aggregator.md)
+* [Space Trade](forbitspace/dex/README.md)
+  * [Aggregation Protocol](forbitspace/dex/aggregation-protocol.md)
+  * [Liquidity Protocol](forbitspace/dex/liquidity-protocol.md)
+  * [Limit Order Protocol](forbitspace/dex/limit-order-protocol.md)
+  * [Derivative protocol](forbitspace/dex/derivative-protocol.md)
+* [Governance](forbitspace/space-aggregator.md)
+* [self-custody](forbitspace/self-custody.md)
+* [Bridge Space](forbitspace/bridge-space.md)
 
-## Self Custody
+## How to Trade forbitspace <a id="self-custody"></a>
 
 * [What is Self Custody?](self-custody/what-is-self-custody.md)
 
