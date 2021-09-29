@@ -10,7 +10,7 @@
 * [How Do DEX Aggregators Work?](getting-started/how-do-dex-aggregators-work.md)
 * [Why Traders Love DEX Aggregators?](getting-started/why-traders-love-dex-aggregators.md)
 
-## Ecosytem <a id="forbitspace"></a>
+## forbitspace
 
 * [DEX](forbitspace/dex.md)
 * [Space Aggregator](forbitspace/space-aggregator.md)
