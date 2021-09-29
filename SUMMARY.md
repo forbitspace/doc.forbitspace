@@ -8,6 +8,7 @@
 
 * [What Is a DEX Aggregator?](getting-started/what-is-a-defi-aggregator.md)
 * [How Do DEX Aggregators Work?](getting-started/how-do-dex-aggregators-work.md)
+* [Why Traders Love DEX Aggregators?](getting-started/why-traders-love-dex-aggregators.md)
 
 ## Ecosytem <a id="forbitspace"></a>
 
