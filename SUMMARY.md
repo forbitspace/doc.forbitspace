@@ -2,7 +2,6 @@
 
 * [Welcome to forbitspace](README.md)
 * [About the forbitspace](untitled.md)
-* [Beginer's guide](untitled-1.md)
 
 ## getting-started
 
@@ -23,5 +22,6 @@
 
 ## How to Trade forbitspace <a id="self-custody"></a>
 
+* [Beginer's guide](self-custody/untitled-1.md)
 * [What is Self Custody?](self-custody/what-is-self-custody.md)
 
