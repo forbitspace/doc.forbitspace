@@ -18,6 +18,9 @@
   * [Liquidity Protocol](forbitspace-1/space-trade/liquidity-protocol.md)
   * [Limit Order Protocol](forbitspace-1/space-trade/limit-order-protocol.md)
   * [Derivative protocol](forbitspace-1/space-trade/derivative-protocol.md)
+* [Governance](forbitspace-1/governance.md)
+* [self-custody](forbitspace-1/self-custody.md)
+* [Bridge Space](forbitspace-1/bridge-space.md)
 
 ## Self Custody
 
