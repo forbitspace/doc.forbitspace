@@ -2,7 +2,7 @@
 
 * [Welcome to forbitspace](README.md)
 * [About the forbitspace](untitled.md)
-* [Untitled](untitled-1.md)
+* [Beginer's guide](untitled-1.md)
 
 ## getting-started
 
