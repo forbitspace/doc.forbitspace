@@ -11,7 +11,16 @@
 * [How Do DEX Aggregators Work?](forbitspace/space-aggregator.md)
 * [Why Traders Love DEX Aggregators?](forbitspace/why-traders-love-dex-aggregators.md)
 
+## FORBITSPACE <a id="forbitspace-1"></a>
+
+* [Space Trade](forbitspace-1/space-trade/README.md)
+  * [Aggregation Protocol](forbitspace-1/space-trade/aggregation-protocol.md)
+  * [Liquidity Protocol](forbitspace-1/space-trade/liquidity-protocol.md)
+  * [Limit Order Protocol](forbitspace-1/space-trade/limit-order-protocol.md)
+  * [Derivative protocol](forbitspace-1/space-trade/derivative-protocol.md)
+
 ## Self Custody
 
 * [What is Self Custody?](self-custody/what-is-self-custody.md)
+* [Untitled](self-custody/untitled.md)
 
