@@ -25,3 +25,7 @@
 * [Beginer's guide](self-custody/untitled-1.md)
 * [What is Self Custody?](self-custody/what-is-self-custody.md)
 
+---
+
+* [API](api.md)
+
